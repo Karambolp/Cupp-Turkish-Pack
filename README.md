@@ -26,7 +26,7 @@ Kullanım: cupp.py [SEÇENEKLER]
 ```
 #Yapılandırma
 CUPP'in talimatları içeren yapılandırma dosyası cupp.cfg'de olduğunu belirtmek isteriz.
-# Örnek (Hızlı ileri)
+# Örnek
 ![Gif By Cupp](https://github.com/Mebus/cupp/blob/master/screenshots/cupp-example.gif "GitHub")
 # Lisans
 Bu program, Özgür Yazılım Vakfı tarafından yayınlanan GNU Genel Kamu Lisansı'nın 3. sürümü veya daha sonraki sürümleri altında dağıtılabilir ve/veya değiştirilebilir.
